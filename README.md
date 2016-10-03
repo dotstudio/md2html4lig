@@ -1,6 +1,8 @@
 ## インストール (最初だけ)
 
 ```
+git clone git@github.com:dotstudio/md2html4lig.git
+cd md2html4lig
 npm i
 ```
 
